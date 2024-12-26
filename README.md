@@ -1,21 +1,22 @@
-<<<<<<< HEAD
-# create-a-stateless-widget
+# Create a Stateless Widget:
 create a Stateless Widget in Flutter that displays two images and customized text.
-=======
-# project_first
 
-A new Flutter project.
+# About:
+This project is a starting point for a Flutter application.
+A flutter app to display two images, one from the assets on the device and the other from the network. 
+Customize text to 'Suwannaphum' font family and bold
 
 ## Getting Started
+1. create a flutter project using "flutter create first_project"command in the terminal
+2. add a folder to add the assets like font and images
+3. update main.dart file with the code to create a stateless widget displaying two images and a text
+4. run app using andriod emulator
 
-This project is a starting point for a Flutter application.
+# Output:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1735246016](https://github.com/user-attachments/assets/fc49e6d9-c2f4-4f9c-b97f-a8eac1d73311)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 517432e (Add project files)
+
+
+
